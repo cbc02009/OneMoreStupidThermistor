@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0805_2012Metric,99.38,-59.055,0.0,top
+C2,0.1uF,C_0805_2012Metric,93.914,-59.055,0.0,top
+D1,BAV99S,SOT-363_SC-70-6,96.901,-66.294,0.0,top
+J1,Conn_01x02,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,102.997,-83.82,180.0,top
+J2,Conn_01x07,PinHeader_1x07_P2.54mm_Vertical,88.9,-59.07,0.0,top
+J3,Conn_01x07,PinHeader_1x07_P2.54mm_Vertical,104.14,-59.07,0.0,top
+J4,Conn_01x02,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,92.329,-83.837,180.0,top
+R1,4.7k,R_0805_2012Metric,100.0995,-75.057,180.0,top
+R2,2.37K,R_0805_2012Metric,99.822,-71.374,0.0,top
+R3,2.37K,R_0805_2012Metric,99.3375,-61.849,180.0,top
+R4,4.7k,R_0805_2012Metric,92.8135,-75.057,0.0,top
+R5,2.37K,R_0805_2012Metric,92.8135,-71.755,0.0,top
+R6,2.37K,R_0805_2012Metric,93.8765,-61.722,180.0,top
