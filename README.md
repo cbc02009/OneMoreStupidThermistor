@@ -18,10 +18,27 @@ restart_method: command
 #If using T1
 [temperature_sensor chamber]
 sensor_type: Generic 3950
-sensor_pin: jomt:PA4
+sensor_pin: jomt:PA2
 
 #If using T2
 [temperature_sensor chamber]
 sensor_type: Generic 3950
 sensor_pin: jomt:PA5
+```
+
+# Adafruit QT Py rp2040 Config Example
+```ini
+[mcu jomt]
+serial: /dev/serial/by-id/usb-Klipper_rp2040_DF60BCA003201A39-if00
+restart_method: command
+
+#If using T1
+[temperature_sensor chamber]
+sensor_type: Generic 3950
+sensor_pin: jomt:gpio28
+
+#If using T2
+[temperature_sensor chamber]
+sensor_type: Generic 3950
+sensor_pin: jomt:gpio29
 ```
